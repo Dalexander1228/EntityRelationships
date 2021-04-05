@@ -93,7 +93,7 @@ namespace EntityRelationships
 
  
 
-
+                //LINQ queries:
        
                 public CustomerProductOrder LINQOperations()
 
